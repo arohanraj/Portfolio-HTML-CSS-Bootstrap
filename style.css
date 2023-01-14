@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  /* box-sizing: content-box; */
+  font-family: "Nunito Sans", sans-serif;
+  /* background-color: rgb(157, 218, 198); */
+}
+.box_css_design {
+  padding: -15px;
+  /* border-radius: 10px; */
+  background-color: rgb(183, 218, 206);
+}
+/* .section_container {
+  width: 90%;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(160, 60, 60);
+  display: flex;
+}
+
+.options_title {
+  margin: 5px;
+  padding: 5px;
+  width: 20%;
+  height: auto;
+  position: relative;
+  background-color: white;
+}
+.descriptions {
+  margin: 5px;
+  padding: 5px;
+  width: 80%;
+  height: auto;
+  background-color: blue;
+} */
